@@ -3,7 +3,7 @@ package principal;
 import java.util.Scanner;
 
 
-public class Desafio_DIO_Nivel_Heroi {
+public class DesafioDIO {
 
 
     public static void main(String[] args) {
