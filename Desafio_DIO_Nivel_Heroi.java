@@ -18,7 +18,7 @@ public class Desafio_DIO_Nivel_Heroi {
             xp = sc.nextInt();
             
             if(xp <= 1000){                
-                    mensagem(nome, "Ferro");
+                   mensagem(nome, "Ferro");
             } else if(xp >= 1001 && xp <= 2000){
                    mensagem(nome, "Bronze");
             } else if(xp >= 2001 && xp <= 5000){
