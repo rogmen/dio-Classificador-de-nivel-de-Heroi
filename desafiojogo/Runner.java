@@ -17,7 +17,7 @@ public class Runner {
             System.out.print("Digite o tpo: ");
             tipo = sc.next();
             
-            new Heroi(nome, idade, tipo);            
+            new Heroi(nome, idade, tipo).atacar();            
         }while(true);
     }
 }
